@@ -1,3 +1,10 @@
+# TEST
+npx puppeteer browsers install chrome
+npm install --save-dev backstopjs
+npx backstop init
+npx backstop reference
+npx backstop test
+
 # Moyo header
 Create an HTML page with the header using `flexbox` based on the [Figma Mockup](https://www.figma.com/file/1sog2rmfyCjnVxkeZ3ptnc/MOYO-%2F-Header?node-id=0%3A1&mode=dev).
 
